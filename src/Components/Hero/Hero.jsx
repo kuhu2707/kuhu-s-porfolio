@@ -21,7 +21,7 @@ const Hero = () => {
       </div>
       <div className="hero-action">
        
-        <a href='https://drive.google.com/file/d/106FMWXaWeJdQ-nT_cgeaK7O2mTv5ZIrc/view?usp=sharing'
+        <a href='https://drive.google.com/file/d/1JkSm5_j_V4PYzGLez6dyD7cIxfHUiqK0/view?usp=sharing'
         target='_blank'
         rel='noopener noreferre'>
         <button className="hero-resume">Resume</button>
